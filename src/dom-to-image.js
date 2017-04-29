@@ -436,6 +436,7 @@
         }
 
         function getAndEncode(url) {
+            console.log('Test console');
             var TIMEOUT = 30000;
 
             return new Promise(function (resolve) {
