@@ -1,3 +1,5 @@
 *.iml
 .tags
 .tags*
+.idea/
+.DS_Store
